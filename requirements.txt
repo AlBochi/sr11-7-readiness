@@ -1,0 +1,2 @@
+# Saillent SR 11-7 Readiness Assessment
+# No external dependencies required — uses Python stdlib only
